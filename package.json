@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harundemirkaya/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Harun Demirkaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harundemirkaya/PCAT/issues"
+  },
+  "homepage": "https://github.com/harundemirkaya/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.8.0"
+  }
+}
